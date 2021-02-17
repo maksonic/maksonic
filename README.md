@@ -1,1 +1,1 @@
-[![Header](https://github.com/maksonic/maksonic/blob/main/assets/github_header_image.png)]
+![Header](https://github.com/maksonic/maksonic/blob/main/assets/github_header_image.png)
